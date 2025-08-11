@@ -32,8 +32,11 @@ Análisis Exploratorio y de Correlación: Visualización de la matriz de correla
 Modelado Predictivo: Implementación y entrenamiento de dos modelos de clasificación: Regresión Logística y Random Forest. 🤖
 
 Evaluación de Modelos: Comparación del rendimiento de los modelos utilizando métricas como Accuracy, Precision, Recall y F1-score, así como el análisis de las matrices de confusión. 🕵️📊
+
 Interpretación y Conclusiones: Análisis de la importancia de las características para identificar los principales impulsores de la cancelación y desarrollo de estrategias de retención basadas en los hallazgos. 📄💡
+
 Resultados Clave 👇
+
 El modelo de Random Forest demostró ser el más efectivo para predecir la cancelación, con una mayor precisión general y una mejor capacidad para identificar correctamente a los clientes que cancelarán. ✅🏆
 
 Los factores más influyentes en la cancelación identificados por los modelos incluyen la duración del contrato (Meses_Conectado) ⏳, los cargos totales (Cargos_Totales) 💰, el método de pago (Método_Pago_Electronic check) 💳⚡️, el tipo de contrato (Tipo_Contrato_Month-to-month) 🗓️, y el servicio de internet (Servicio_Internet_Fiber optic) 🌐💡.
