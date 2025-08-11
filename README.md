@@ -1,7 +1,9 @@
 Predicción de Cancelación de Clientes (Churn Prediction) 📉
+
 Este repositorio contiene un proyecto de análisis de datos y machine learning enfocado en la predicción de la cancelación de clientes (churn) para una empresa de telecomunicaciones. El objetivo principal es identificar los factores clave que influyen en la decisión de un cliente de cancelar su servicio y desarrollar modelos predictivos para anticipar este comportamiento. 🎯
 
 Contenido del Repositorio 🗄️
+
 notebook.ipynb: El notebook principal de Jupyter que contiene todo el código y análisis, incluyendo:
 Carga y preparación de los datos. 🛠️
 Exploración inicial y visualización de datos. 📊
